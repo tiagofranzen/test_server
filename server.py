@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def zero_zero():
-    return 'Controller is alive 3.0!'
+    return 'Controller is alive 666!'
 
 
 if __name__ == '__main__':
